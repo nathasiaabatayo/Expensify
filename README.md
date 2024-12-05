@@ -1,13 +1,19 @@
 # Expensify
-Phase 1: User Interface Design ( 2 Weeks)
-- Finalization of UI/UX Design.
+Week 1 - 2
+Discovery and Research
 
-Phase 2: Development ( 3 Weeks)
-- Code core features and functionalities.
+Week 3
+User Interface Design and Wireframing Design
 
-Phase 3:  Testing and Trouble Shooting  ( 3 Weeks) 
-- Conduct testing and fix any issues.
+Week 4
+Finalization of UI/UX Design.
 
-Phase 7: Launch Preparation ( 3 Weeks)
+Week 5 - 6
+Code core features and functionalities.
+
+Week 7 -9 
+ Testing and Trouble Shooting
+
+Week 10 - 11
 - Prepare for app deployment and marketing.
 
