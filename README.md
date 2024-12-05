@@ -20,5 +20,6 @@ Week 7 -9
 Testing and Trouble Shooting
 
 Week 10 - 11
-- Prepare for app deployment and marketing.
+
+Prepare for app deployment and marketing.
 
